@@ -1,0 +1,8 @@
+scapy
+pandas
+matlotlib
+requests
+folium
+basemap
+basemap-data-hires
+tkinter
